@@ -15,5 +15,3 @@ lxml
 urllib3
 requests
 pickleshare==0.7.5
-
--e .
